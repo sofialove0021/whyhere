@@ -12,7 +12,7 @@
     "canvas": "^2.0.0-alpha.13",
     "canvas-constructor": "^1.0.1",
     "chalk": "^2.4.1",
-    "date-and-time": "^0.6.2",
+    "date-and-time": "^0.14.2",
     "discord-rpc": "^3.0.1",
     "discord.js": "^11.4.2",
     "discord.js-music": "^2.1.0",
